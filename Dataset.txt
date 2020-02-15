@@ -1,0 +1,2 @@
+You can download the dataset from the following link:
+https://www.mldata.io/dataset-details/smartphone_activity/
